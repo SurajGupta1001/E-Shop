@@ -1,40 +1,39 @@
-# e-commerce-store
-
-**Free hosting use for deployement, so it might be happen response take much time and some time its down, So please run this project on local for checking.**
+# Simple E-Shop Project
 
 
- ## Technology Which I Used
-   ***Backend***
-   
- - Nodejs
- - Mongodb
- - Express
+Welcome to the Simple E-Shop project! This is a basic e-commerce web application built with React, Redux, and Node.js. The project showcases essential e-shop functionality, including product browsing, cart management, and order processing.
 
- ***Frontend***
+## Features
 
- - React Js
- - Redux
-
-<br />
-
- ## Step to Start Project
- 
-
- 
-**For Backend**
- 1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
- 2. `cd e-comerce-backend`
- 3. `npm i`
- 4. `npm run data:import`
- 5. `npm run dev`
-
-**For Frontend**
-
- 1. `cd e-comerce-frontend`
- 2. `npm i`
- 3. `npm run start`
+- **Product Catalog:** Explore a selection of products with descriptions and prices.
+- **Product Search:** Find products based on keywords or categories.
+- **Shopping Cart:** Add products to the cart, modify quantities, and calculate the total price.
+- **Checkout:** Complete the order by providing shipping and payment details.
+- **Order History:** View past order details and status.
 
 
-#### If you like project then feel free to give Star 😅
+## Technologies Used
 
-# E-Shop
+- **Frontend:**
+  - React: JavaScript library for building user interfaces.
+  - Redux: Predictable state container for managing application state.
+  - React Router: Library for routing and navigation in React applications.
+  - Axios: HTTP client for making API requests.
+
+- **Backend:**
+  - Node.js: JavaScript runtime for server-side development.
+  - Express: Minimal and flexible Node.js web application framework.
+  - MongoDB: NoSQL database for storing product and user data.
+
+## Demo
+
+Here's a screenshot of the Simple E-Shop project:
+
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626301/Screenshot_2023-07-29_154541_ahyjho.png) <!-- Replace with the URL of your demo image -->
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626302/Screenshot_2023-07-29_154501_cfjcyi.png) <!-- Replace with the URL of your demo image -->
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626301/Screenshot_2023-07-29_154615_cep6r2.png) <!-- Replace with the URL of your demo image -->
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626301/Screenshot_2023-07-29_154647_ynhjlp.png) <!-- Replace with the URL of your demo image -->
+
+## Contributing
+
+We welcome contributions from the community to enhance the Simple E-Shop project. If you encounter a bug or wish to add new features.
