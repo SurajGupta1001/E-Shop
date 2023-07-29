@@ -29,10 +29,10 @@ Welcome to the Simple E-Shop project! This is a basic e-commerce web application
 
 Here's a screenshot of the Simple E-Shop project:
 
-![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626301/Screenshot_2023-07-29_154541_ahyjho.png) <!-- Replace with the URL of your demo image -->
-![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626302/Screenshot_2023-07-29_154501_cfjcyi.png) <!-- Replace with the URL of your demo image -->
-![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626301/Screenshot_2023-07-29_154615_cep6r2.png) <!-- Replace with the URL of your demo image -->
-![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690626301/Screenshot_2023-07-29_154647_ynhjlp.png) <!-- Replace with the URL of your demo image -->
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690628984/Screenshot_2023-07-29_163632_y0gosz.png) <!-- Replace with the URL of your demo image -->
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690628985/Screenshot_2023-07-29_154501_aknljw.png) <!-- Replace with the URL of your demo image -->
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690628985/Screenshot_2023-07-29_163746_utzixt.png) <!-- Replace with the URL of your demo image -->
+![E-Shop Demo](https://res.cloudinary.com/djlxvipix/image/upload/v1690628985/Screenshot_2023-07-29_163437_qazrrf.png) <!-- Replace with the URL of your demo image -->
 
 ## Contributing
 
